@@ -7,15 +7,15 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/anacleto241/sistemaControleDespesas">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/anacleto241/Atendimento-em-Fila-JS">
   
   <a href="https://github.com/anacleto241/sistemaControleDespesas/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/anacleto241/sistemaControleDespesas">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/anacleto241/Atendimento-em-Fila-JS">
   </a>
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
    <a href="https://github.com/anacleto241/sistemaControleDespesas/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/anacleto241/sistemaControleDespesas?style=social">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/anacleto241/Atendimento-em-Fila-JS?style=social">
   </a>
     <img alt="Feito por Fabrício Anacleto" src="https://img.shields.io/badge/feito%20por-Anacleto-%237519C1">
   </a> 
@@ -34,65 +34,27 @@ Tabela de conteúdos
    * [Telas](#-telas)
    * [Tecnologias](#-tecnologias)
    * [Autor](#-autor)
-   * [Licença](#-licença)
 <!--te-->
 
 
 ## 💻 Sobre o projeto
 
-♻️ Este é um sistema de gerenciamento de despesas domésticas, com persistência em banco de dados.
+♻️ Este é um sistema de gerenciamento de atendimento em fila, desenvolvido em JAVASCRIPT
 
 
-Projeto desenvolvido durante a disciplina de Linguagens e Técnicas de Programação oferecida pelo professor Matheus Eloy Franco.
+Projeto desenvolvido durante a disciplina de Estrutura de Dados oferecida pelo professor Matheus Eloy Franco.
 
 ---
 
-#### **Telas**
+#### **Tela**
 <h5 align="center">
-    Tela de login
+    Tela de Manipulação do Sistema
 </h5>
 <p align="center">  
   <a href="https://github.com/anacleto241/sistemaControleDespesas/assets/131410501/eec5bd3f-6c52-485a-9375-c02493d502b0">
     <img alt="Login" src="https://github.com/anacleto241/sistemaControleDespesas/assets/131410501/eec5bd3f-6c52-485a-9375-c02493d502b0">
   </a>
-<h5 align="center">
-    Tela de cadastro de despesas
-</h5>
-	<a href="https://github.com/anacleto241/sistemaControleDespesas/assets/131410501/9be2fd50-e194-4ae4-a1b8-56e161bc16a1">
-    <img alt="Cadastro de despesas" src="https://github.com/anacleto241/sistemaControleDespesas/assets/131410501/9be2fd50-e194-4ae4-a1b8-56e161bc16a1">
-  </a>
-<h5 align="center">
-    Tela de listagem de despesas
-</h5>
-   <a href="https://github.com/anacleto241/sistemaControleDespesas/assets/131410501/3dddbad4-0312-4f9c-8901-379be23f38e0">
-    <img alt="Listagem de despesas" src="https://github.com/anacleto241/sistemaControleDespesas/assets/131410501/3dddbad4-0312-4f9c-8901-379be23f38e0">
-  </a>
-<h5 align="center">
-    Tela de alteração de despesas
-</h5>
-	<a href="https://github.com/anacleto241/sistemaControleDespesas/assets/131410501/57cd151b-0d38-43b6-9ec6-55984a74f31b">
-    <img alt="Alteração de despesas" src="https://github.com/anacleto241/sistemaControleDespesas/assets/131410501/57cd151b-0d38-43b6-9ec6-55984a74f31b">
-  </a>
-<h5 align="center">
-    Tela de cadastro de categorias
-</h5>
-	<a href="https://github.com/anacleto241/sistemaControleDespesas/assets/131410501/4ae26aa1-0acd-42b5-8f4a-4a2c464d2d5f">
-    <img alt="Cadastro de categorias" src="https://github.com/anacleto241/sistemaControleDespesas/assets/131410501/4ae26aa1-0acd-42b5-8f4a-4a2c464d2d5f">
-  </a>
-<h5 align="center">
-    Tela de listagem de categorias
-</h5>
-	<a href="https://github.com/anacleto241/sistemaControleDespesas/assets/131410501/0a577c1b-e7af-4ac8-81b1-5da8817db704">
-    <img alt="Listagem de categorias" src="https://github.com/anacleto241/sistemaControleDespesas/assets/131410501/0a577c1b-e7af-4ac8-81b1-5da8817db704">
-  </a>
-<h5 align="center">
-    Tela de alteração de categorias
-</h5>
-	<a href="https://github.com/anacleto241/sistemaControleDespesas/assets/131410501/eeb22d14-5e37-4737-b2ea-6006148c5956">
-    <img alt="Alteração de categorias" src="https://github.com/anacleto241/sistemaControleDespesas/assets/131410501/eeb22d14-5e37-4737-b2ea-6006148c5956">
-  </a>
-</p>
----
+
 
 ## ⚙️ Funcionalidades
   - [x] Adição de atendimentos
