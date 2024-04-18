@@ -17,7 +17,7 @@
    <a href="https://github.com/anacleto241/sistemaControleDespesas/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/anacleto241/sistemaControleDespesas?style=social">
   </a>
-    <img alt="Feito por Fabrício Anacleto" src="https://img.shields.io/badge/feito%20por-Generoso e Anacleto-%237519C1">
+    <img alt="Feito por Fabrício Anacleto" src="https://img.shields.io/badge/feito%20por-Anacleto-%237519C1">
   </a> 
  
 </p>
