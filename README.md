@@ -119,14 +119,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 [![Linkedin Badge](https://img.shields.io/badge/-Fabricio_Anacleto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabrício-anacleto-b98710278/)](https://www.linkedin.com/in/fabrício-anacleto-b98710278/) 
 [![Gmail Badge](https://img.shields.io/badge/-fabricio.anacleto@alunos.ifsuldeminas.edu.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabricio.anacleto@alunos.ifsuldeminas.edu.br)](mailto:fabricio.anacleto@alunos.ifsuldeminas.edu.br)
 
-
-<a>
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/131410501?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
- <br />
- <sub><b>Lucas Generoso</b></sub></a> <a>🚀</a>
- <br />
- generoso@alunos.ifsuldeminas.edu.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.generoso@alunos.ifsuldeminas.edu.br)](mailto:lucas.generoso@alunos.ifsuldeminas.edu.br)
-
 ---
 
 ## 📝 Licença
