@@ -52,7 +52,7 @@ Projeto desenvolvido durante a disciplina de Estrutura de Dados oferecida pelo p
 </h5>
 <p align="center">  
   <a href="https://github.com/anacleto241/sistemaControleDespesas/assets/131410501/eec5bd3f-6c52-485a-9375-c02493d502b0">
-    <img alt="Login" src="https://github.com/anacleto241/sistemaControleDespesas/assets/131410501/eec5bd3f-6c52-485a-9375-c02493d502b0">
+    <img alt="Login" src="https://github.com/anacleto241/Atendimento-em-Fila-JS/blob/Atividade-Fila-js/image/Tele_atendimento-js.PNG">
   </a>
 
 
